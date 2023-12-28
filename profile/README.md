@@ -1,8 +1,8 @@
-<img style="width:100%, height: auto" src="../coding-school-chatgpt-dec-28-small.jpeg" />
+<img style="width:100%, height: auto" src="https://github.com/Escuela-dev/.github/blob/main/coding-school-chatgpt-dec-28-small.jpeg" />
 
 # Escuela.dev
 
-> https://escula.dev - Escuela de codigo en Malaga
+> https://escuela.dev - Escuela de codigo en Malaga
 
 ## Bootcamp de programación en Malaga, España 🌞 :sparkles:
 
