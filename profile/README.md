@@ -12,5 +12,5 @@ Quieres dominar las tecnologías y metodologías necesarias para crear una pagin
 
 De lunes a viernes de 9 a 18 horas (+4 horas de prácticas diarias) y Challenge de fin de semana
 
-- <info@escuela.dev>
+- Email: Gianfranco at <gianfranco@escuela.dev>
 - WhatsApp: <a href="https://wa.me/+34622016025">+34622016025</a>
