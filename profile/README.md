@@ -8,7 +8,7 @@ Quieres dominar las tecnologías y metodologías necesarias para crear una pagin
 
 ### 50% de descuento en la primera clase
 
-Contact me por:
+Contacta me por:
 
 - Email: Gianfranco at <gianfranco@escuela.dev>
 - WhatsApp: <a href="https://wa.me/+34622016025">+34622016025</a>
