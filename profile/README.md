@@ -1,4 +1,4 @@
-<img style="width:100%, height: auto" src="https://github.com/Escuela-dev/.github/blob/main/coding-school-chatgpt-dec-28-small.jpeg" />
+<img width="700" style="height: auto" src="https://github.com/user-attachments/assets/b45e17b9-5dc4-4fad-92ca-3629edb235f7" />
 
 # <a href="https://escuela.dev">Escuela.dev</a>
 
